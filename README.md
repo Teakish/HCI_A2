@@ -2,6 +2,7 @@
 The second assignment for the HCI course, 
 wherein we design a clickable application prototype for mobile, using figma.
 
+-Situation : During the COVID-19 pandemic-
 The initial prototype allows the people who need help with day-to-day activities 
 to reach out to volunteers who might be able to lend them a hand. 
 The application also features some helpful* guides and resources, 
