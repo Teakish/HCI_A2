@@ -47,3 +47,11 @@ personalized settings, and the ability to contact the volunteers directly.
 **Link to the figma prototype**
 
 https://www.figma.com/file/wqxES0JRgYMAMMhYfSdjcN/A2_CovidTemplate2
+
+
+Five new desirable functionalities:
+1. Tracer
+2. Socialization forum (based on interests, and heavily moderated :))
+3. Private chat between users (not just w/ volunteers)(also based on common interest)
+4. Location services and Integration with google Maps or other
+5. More accessibility settings (such as read-aloud etc.)
