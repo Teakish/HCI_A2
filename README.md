@@ -46,8 +46,8 @@ personalized settings, and the ability to contact the volunteers directly.
 
 **Link to the figma prototype**
 
-https://www.figma.com/file/wqxES0JRgYMAMMhYfSdjcN/A2_CovidTemplate2
-
+Prototype 2: https://www.figma.com/file/wqxES0JRgYMAMMhYfSdjcN/A2_CovidTemplate2
+Prototype 3: https://www.figma.com/file/b6x6y4yGWPi13igso9WyY3/A2_CovidTemplate_Final
 
 Five new desirable functionalities:
 1. Tracer
