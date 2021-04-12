@@ -46,6 +46,7 @@ personalized settings, and the ability to contact the volunteers directly.
 
 **Link to the figma prototype**
 
+Prototype 1: https://www.figma.com/file/PMGfN2H03rv9zC4OTgOUwD/CovidTemplate2
 Prototype 2: https://www.figma.com/file/wqxES0JRgYMAMMhYfSdjcN/A2_CovidTemplate2
 Prototype 3: https://www.figma.com/file/b6x6y4yGWPi13igso9WyY3/A2_CovidTemplate_Final
 
